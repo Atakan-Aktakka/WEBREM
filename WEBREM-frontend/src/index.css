@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-2b097c-container{
+  width : 150px;
+  margin-right: 10px;
+}
